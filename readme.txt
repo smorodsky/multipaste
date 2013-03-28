@@ -6,7 +6,6 @@ Pastes the contents of the clipboard to each of these pages in the current docum
 
 Hold the keys before running the script for additional functions:
 
-Shift - selects all the pages
 Ctrl - selects all the left page,
 Alt - selects all the right pages. 
 
@@ -28,7 +27,6 @@ Run Adobe Extension Manager. Find the item "MultiPaste" in the list and click "R
 
 Удерживайте клавиши перед запуском скрипта для дополнительных функций:
 
-Shift - выделяет все страницы,
 Ctrl - выделяет все левые страницу,
 Alt - выделяет все правые страницы.
 

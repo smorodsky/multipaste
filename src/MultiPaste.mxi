@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <macromedia-extension
 	name="MultiPaste"
-	version="1"
+	version="1.0.1"
 	type="Command">
 
 	<!-- Describe the author -->
@@ -37,7 +37,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Hold the keys before running the script for additional functions:<br>
 
-Shift - selects all the pages<br>
 Ctrl - selects all the left page,<br>
 Alt - selects all the right pages.]]>
 	</ui-access>
